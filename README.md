@@ -1,4 +1,4 @@
-## Olá, Mundo 🌎
+## Olá, Mundo! 🌎
 
 - 🧠 Focado em Front-end;
 - 🌱 Aprendendo JS, HTML e CSS;
